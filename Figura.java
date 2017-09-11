@@ -20,6 +20,6 @@ public class Figura
     
     public void imprimeArea()
     {
-        System.out.println("El area de la figura es: "+area);
+        System.out.println("El area de la figura es: "+ area);
     }
 }
