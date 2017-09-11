@@ -1,5 +1,5 @@
 /**
- * Supercalse 
+ * Superclase 
  * @author Israel Vergara
  * @version 8 Sep 2017
  */

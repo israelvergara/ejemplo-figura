@@ -1,12 +1,13 @@
 /**
- * 
- * 
  * clase triangulo herada de clase Figura
+ * @author Israel Vergara
+ * @version 10 sep 2017
  */
 
 public class Triangulo extends Figura
 { 
-    private float base, altura;
+    private float base;
+    private float altura;
     
     public Triangulo (float unaBase, float unaAltura)
     {
