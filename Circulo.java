@@ -19,4 +19,11 @@ public class Circulo extends Figura
     {
         area = 3.1416f * radio * radio;
     }
+    
+    @Override
+    
+    public void calculaPerimetro()
+    {
+        perimetro = 2 * 3.1416f * radio;
+    }
 }
