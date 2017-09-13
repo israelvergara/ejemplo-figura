@@ -1,5 +1,5 @@
 /**
- * clase triangulo herada de clase Figura
+ * clase triangulo hereda de clase Figura
  * @author Israel Vergara
  * @version 10 sep 2017
  */

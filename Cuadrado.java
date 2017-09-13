@@ -1,4 +1,5 @@
 /**
+ * 
  * Clase que crea un cuadrado
  */
 
@@ -16,5 +17,12 @@ public class Cuadrado extends Figura
     public void calculaArea()
     {
         area = lado * lado;
+    }
+    
+    @Override
+    
+    public void calculaPerimetro()
+    {
+        perimetro = lado * 4;
     }
 }
